@@ -3,7 +3,7 @@ try{Typekit.load();}catch(e){}
 var feed = new Instafeed({
 		get: 'user',
 		userId: '7034560676',
-		accessToken: '6434183679.1677ed0.b733659878ea43e0a6e10b93f216dbaf',
+		accessToken: '7034560676.1677ed0.335623cd84b246d1a4dc7b234e07d6fd',
 		target: 'instagram',
 		resolution: 'standard_resolution',
 		after: function() {
